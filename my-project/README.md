@@ -1,6 +1,5 @@
-![Image text](https://github.com/zl940722/)
+![Image text](https://github.com/zl940722/my-vue/blob/master/my-project/src/resources/pic.jpg)
 
-```
 ## cd my-project
 
 ## install dependencies
@@ -23,6 +22,3 @@
 
 ## run all tests
 *npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
