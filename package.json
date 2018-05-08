@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vue-class-component": "^6.2.0",
+    "vue-cli": "^2.9.3"
+  }
+}
